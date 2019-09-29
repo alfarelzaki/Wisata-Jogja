@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WisataJogja</string>
+    <string name="wisataName">Nama Tempat Wisata</string>
+    <string name="wisataLocation">Lokasi Tempat WIsata</string>
+    <string name="sumber">https://travelingyuk.com/wisata-jogja/131638/</string>
+    <string name="my_name">Alfarel Zaki Maulana Anam</string>
+    <string name="email">alfarell.zaki@gmail.com</string>
+</resources>
